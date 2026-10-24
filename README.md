@@ -17,14 +17,15 @@ TypeScript, and I like projects with a strong visual or interactive side: 3D, an
 | [নিশিপদ্ম Nishipoddo](https://github.com/FinexSSS/theuntoldname) | Interactive Bangla poem: 13 animated scenes, hidden discoveries, music-reactive visuals | React, TypeScript, TanStack Start, Canvas, Web Audio API |
 | [Shared Traditions in Bangladesh](https://github.com/FinexSSS/cst308project) | Journal-style research website for a CST308 project on shared festivals, Baul songs and belonging | React, TypeScript, TanStack Start, shadcn/ui |
 | [CSE420 Compiler Lab Guide](https://github.com/FinexSSS/CSE420-Lab-Summer26-BRACU-) | Interactive Flex/Bison study guide: line-by-line explanations, LALR(1) stack animation, viva flashcards | React, Vite, Framer Motion |
+| [University Advising System](https://github.com/FinexSSS/CSE370-Advising-System) | CSE370 group project: applications and admissions, add/drop course sections with seat counts, schedules, faculty approval and grades | PHP, MySQL |
 | [Midnight Aurora](https://github.com/FinexSSS/midnight-aurora-proposal) | Interactive proposal card with an animated night sky, Bangla poetry, music and confetti | React, Vite, Tailwind |
 | [RoadLedger](https://github.com/FinexSSS/Rent-a-car-tracking) | Offline-first app tracking a rent-a-car business's daily earnings, expenses and maintenance | Flutter, Dart, Hive |
 
 ### Tech
 
-- **Languages:** JavaScript, TypeScript, Python, C, C++, C#, SQL, Dart, Rust
+- **Languages:** JavaScript, TypeScript, Python, C, C++, C#, SQL, Dart, Rust, PHP
 - **Frontend:** React, Next.js, TanStack Start, SvelteKit, Tailwind CSS, shadcn/ui, Framer Motion, Three.js
-- **Backend & data:** Node.js, Express, Next.js API routes, REST APIs, PostgreSQL (Neon, Supabase), MongoDB, MySQL
+- **Backend & data:** Node.js, Express, Next.js API routes, PHP, REST APIs, PostgreSQL (Neon, Supabase), MongoDB, MySQL
 - **Mobile:** Flutter
 - **Desktop & systems:** Rust, Win32 API (IOCP, overlapped I/O), Tauri
 - **Tools:** Git, GitHub, Vite, Bun, npm, Vercel, VS Code
