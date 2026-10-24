@@ -11,6 +11,7 @@ TypeScript, and I like projects with a strong visual or interactive side: 3D, an
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [StartSmart](https://github.com/FinexSSS/StartSmart) | Startup feasibility and resource planning platform with 20 modules: budgets, break-even, risk, SWOT, roadmap, business plan export | React, TypeScript, Supabase, Tailwind, shadcn/ui, Recharts, React Three Fiber |
+| [HyperCopy](https://github.com/FinexSSS/HyperCopy) | Fast Windows file copier: per-file I/O strategies (unbuffered IOCP for large files), "Paste with HyperCopy" in Explorer, progress window and CLI dashboard; about 3.4× faster than Explorer on 161k files | Rust, Win32 API, Tauri, TypeScript, ratatui |
 | BanglaGuard *(private)* | Thesis data labelling platform: three annotators labelling 107,417 bi-script Bangla comments, with quotas, progress tracking and CSV export | Next.js, Neon Postgres, Vercel |
 | [Personal Yggdrasil](https://github.com/FinexSSS/yggdrasil-16-social-activity-monitor) | Personal social activity data shown as a growing 3D tree you can explore | SvelteKit, Threlte (Three.js), Supabase |
 | [নিশিপদ্ম Nishipoddo](https://github.com/FinexSSS/theuntoldname) | Interactive Bangla poem: 13 animated scenes, hidden discoveries, music-reactive visuals | React, TypeScript, TanStack Start, Canvas, Web Audio API |
@@ -21,8 +22,9 @@ TypeScript, and I like projects with a strong visual or interactive side: 3D, an
 
 ### Tech
 
-- **Languages:** JavaScript, TypeScript, Python, C, C++, C#, SQL, Dart
+- **Languages:** JavaScript, TypeScript, Python, C, C++, C#, SQL, Dart, Rust
 - **Frontend:** React, Next.js, TanStack Start, SvelteKit, Tailwind CSS, shadcn/ui, Framer Motion, Three.js
 - **Backend & data:** Node.js, Express, Next.js API routes, REST APIs, PostgreSQL (Neon, Supabase), MongoDB, MySQL
 - **Mobile:** Flutter
+- **Desktop & systems:** Rust, Win32 API (IOCP, overlapped I/O), Tauri
 - **Tools:** Git, GitHub, Vite, Bun, npm, Vercel, VS Code
