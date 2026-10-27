@@ -1,6 +1,6 @@
 ## Hi, I'm Shahariar Akram
 
-Computer Science & Engineering student at **BRAC University**, Dhaka, working towards becoming a
+Computer Science student at **BRAC University**, Dhaka, working towards becoming a
 **Full Stack Engineer**. I build modern, responsive web apps, mostly with React, Next.js and
 TypeScript, and I like projects with a strong visual or interactive side: 3D, animation, sound.
 
